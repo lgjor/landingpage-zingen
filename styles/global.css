@@ -45,10 +45,15 @@ html {
     font-size: var(--fs-base);
     line-height: 1.6;
     color: var(--text-color-primary);
+
+    overflow-x: hidden;
+
+    scroll-behavior: smooth;
 }
 
 body {
     background-color: var(--bg-color);
+    overflow-x: hidden;
 }
 
 h1, h2, h3 {
@@ -70,6 +75,20 @@ h3 {
     font-size: var(--fs-lg);
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul[role=list] {
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+    display: inline-block;
+}
+
 @media (width>= 80em) {
     :root {
         --fs-lg: 2rem;
@@ -80,13 +99,4 @@ h3 {
         --py-lg: 2.5rem;
         --py-xl: 5rem;
     }
-}
-
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
-ul[role=list] {
-    list-style: none;
 }
