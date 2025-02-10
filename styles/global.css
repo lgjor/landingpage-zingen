@@ -75,6 +75,11 @@ h3 {
     font-size: var(--fs-lg);
 }
 
+img {
+    max-width: 100%;
+    display: inline-block;
+}
+
 a {
     text-decoration: none;
     color: inherit;
@@ -93,11 +98,6 @@ a:hover {
 
 ul[role=list] {
     list-style: none;
-}
-
-img{
-    max-width: 100%;
-    display: inline-block;
 }
 
 @media (width>= 80em) {
