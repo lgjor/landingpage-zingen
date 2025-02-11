@@ -18,8 +18,8 @@ Projeto desenvolvido a partir do curso Fullstack da <a href="https://www.rockets
 <br>
 
 <p align="center">
-  <a href="https://lgjor.github.io/patinsanimation" target="_blank">
-    <img src=".github/preview.jpg" width="100%" alt="Landing page animada">
+  <a href="https://lgjor.github.io/landingpage-zingen/" target="_blank">
+    <img src=".github/preview.jpg" width="100%" alt="Landing page responsiva">
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Neste projeto, foram explorados os recursos de animação do CSS.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [Desse link](https://www.figma.com/community/file/1379866810042169871). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [Desse link](https://www.figma.com/community/file/1371886246180677672). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
