@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Neste projeto, foram explorados os recursos de animação do CSS.
+Neste projeto, foram explorados os recursos de grid, flexbox e classes utilitárias do css.
 
 ## 🔖 Layout
 
