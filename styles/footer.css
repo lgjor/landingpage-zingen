@@ -48,6 +48,7 @@ footer {
             
             grid-template-columns: auto 1fr;
             & nav {
+                gap: 0;
                 margin-left: auto;
 
                 & ul {
